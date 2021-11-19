@@ -1,0 +1,6 @@
+Public IP Address: 42.105.19.98
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: LAPTOP-1JF1FG53
+Private IP Address: 192.168.43.108
