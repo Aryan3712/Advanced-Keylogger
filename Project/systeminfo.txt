@@ -4,3 +4,39 @@ System: Windows 10.0.19043
 Machine: AMD64
 Hostname: LAPTOP-1JF1FG53
 Private IP Address: 192.168.43.108
+Public IP Address: 203.81.241.247
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: LAPTOP-1JF1FG53
+Private IP Address: 192.168.0.197
+Public IP Address: 203.81.241.247
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: LAPTOP-1JF1FG53
+Private IP Address: 192.168.0.197
+Public IP Address: 203.81.241.247
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: LAPTOP-1JF1FG53
+Private IP Address: 192.168.0.197
+Public IP Address: 203.81.241.247
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: LAPTOP-1JF1FG53
+Private IP Address: 192.168.0.197
+Public IP Address: 203.81.241.247
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: LAPTOP-1JF1FG53
+Private IP Address: 192.168.0.197
+Public IP Address: 203.81.241.247
+Processor: Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: LAPTOP-1JF1FG53
+Private IP Address: 192.168.0.197
